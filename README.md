@@ -29,4 +29,6 @@ Com os dados cadastrados do usuário e armazenados no Firebase, pode-se assim re
 # View 4
 Tela do chat.
 
-<img width="753" alt="Screen Shot 2022-06-28 at 16 04 02" src="https://user-images.githubusercontent.com/102806228/176324208-54bd2b2e-c33b-449c-9858-4a7952b68ceb.png">
+<img width="1440" alt="Screen Shot 2022-06-28 at 21 19 21" src="https://user-images.githubusercontent.com/102806228/176325408-1cdf21f1-4661-44e4-b029-bd894c10f7ed.png">
+
+
