@@ -9,7 +9,7 @@ MVC;
 UITableViews;
 Customização de views utilizando arquivos .xib;
 Criação de classes de constantes para armazenar Strings;
-Navegação por segues por meio da Navigation Controller;
+Navigation Controller;
 
 # View 1
 Introdução animada ao logotipo do aplicativo.
