@@ -3,7 +3,7 @@
 Aplicativo de interação por meio de chat, assim como o WhatsApp.
 
 ## Skills para o desenvolvimento do app:
-Firebase Firestore como armazenador backend das mensagens;
+Firebase Firestore como armazenador backend das mensagens; \n
 CocoaPods;
 MVC;
 UITableViews;
